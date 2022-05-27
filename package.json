@@ -20,6 +20,6 @@
   },
   "license": "MIT",
   "dependencies": {
-    "@stencil/helmet": "^0.3.2"
+    "@stencil/helmet": "^0.3.3"
   }
 }
